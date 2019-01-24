@@ -1,0 +1,9 @@
+README
+
+Instruction on how to build and execute the project from the terminal using Java Compiler
+1. cd HangMan
+2. cd JavaCode
+3. javac Hangman.java
+4. java Hangman
+
+These instruction should be enough to run this project from the terminal of a MAC.
